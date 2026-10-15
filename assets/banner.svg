@@ -104,6 +104,5 @@
 
     <text x="64" y="104" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="700" fill="#fff8ee" letter-spacing="-1">Данил Ромашкан</text>
     <text x="66" y="146" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#fff8ee" opacity=".88">frontend-разработчик · Симферополь, Крым</text>
-    <text x="66" y="340" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#cfe3ff" opacity=".8">44.95° N, 34.10° E</text>
   </g>
 </svg>

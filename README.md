@@ -1,91 +1,44 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Данил Ромашкан — frontend-разработчик из Крыма" width="100%" />
+  <img src="./assets/banner.svg" alt="Данил Ромашкан — frontend-разработчик" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://t.me/np_ok"><img src="https://img.shields.io/badge/Telegram-@np__ok-3f6f9a?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:danil.romashkan@yandex.ru"><img src="https://img.shields.io/badge/Почта-danil.romashkan@yandex.ru-e08e6d?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/CrimeaIT82"><img src="https://img.shields.io/badge/Канал-CrimeaIT-2b3a67?style=flat-square&logo=telegram&logoColor=white" alt="CrimeaIT" /></a>
-  <img src="https://img.shields.io/badge/открыт_к_предложениям-удалёнка_·_релокация-f6c28b?style=flat-square" alt="Открыт к предложениям" />
-</p>
+## О себе
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=E08E6D&center=true&vCenter=true&width=620&lines=Пишу+интерфейсы+на+React+и+Vue;Люблю+алгоритмы+—+олимпиады%2C+ICPC%2C+хакатоны;Магистратура+КИПУ+·+прикладная+информатика;Ищу+команду%2C+где+можно+расти+🌊" alt="typing" />
-</p>
+Frontend-разработчик из Симферополя. Два года работал в веб-студии [Web Castle](https://web-castle.ru) — делал сайты и интерфейсы для клиентов. Сейчас учусь в магистратуре КИПУ по прикладной информатике.
 
----
+Основной стек — React и Vue. Когда нужно, пишу серверную часть на Node.js или Python (FastAPI). Занимаюсь спортивным программированием.
 
-### ⚓ Каюта капитана
+Ищу работу frontend-разработчиком: удалённо или с релокацией.
 
-```js
-const danil = {
-  role: 'Frontend-разработчик',
-  base: 'Симферополь, Крым 🌊',
-  experience: 'Web Castle · 2024–2026',
-  education: 'КИПУ им. Февзи Якубова · прикладная информатика (магистратура, 2025–2027)',
-  strongest: ['React', 'Vue 3', 'JavaScript'],
-  backendWhenNeeded: ['Node.js', 'Python / FastAPI'],
-  languages: { ru: 'родной', en: 'B2' },
-  lookingFor: 'frontend — удалённо или с релокацией',
-}
-```
-
-### 🧭 Навигационные приборы
+## Стек
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,vite,nodejs,python,fastapi,git,github&theme=dark&perline=11" alt="Стек" />
+  <img src="https://skillicons.dev/icons?i=react,vue,js,html,css,vite,nodejs,python,fastapi,git&perline=10" alt="React, Vue, JavaScript, HTML, CSS, Vite, Node.js, Python, FastAPI, Git" />
 </p>
 
-### 🏝️ Острова — проекты
+## Проекты
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/danilromas/vue-kanban"><img src="./assets/kanban.png" alt="Доска задач" /></a>
-      <h4>🗂️ <a href="https://github.com/danilromas/vue-kanban">Доска задач</a></h4>
-      <sub>Канбан на Vue 3 + Pinia. Нативный drag &amp; drop, дедлайны, фильтры, localStorage.</sub><br/><br/>
-      <a href="https://danilromas.github.io/vue-kanban/">Открыть демо →</a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/danilromas/vue-weather"><img src="./assets/weather.png" alt="Погода" /></a>
-      <h4>⛅ <a href="https://github.com/danilromas/vue-weather">Погода</a></h4>
-      <sub>Прогноз по Open-Meteo. Свой SVG-график, поиск с debounce, геолокация, фон по погоде.</sub><br/><br/>
-      <a href="https://danilromas.github.io/vue-weather/">Открыть демо →</a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/danilromas/vue-player"><img src="./assets/player.png" alt="Плеер" /></a>
-      <h4>💿 <a href="https://github.com/danilromas/vue-player">Плеер</a></h4>
-      <sub>Web Audio визуализатор, винил, плейлист, Media Session, демо-трек синтезируется в браузере.</sub><br/><br/>
-      <a href="https://danilromas.github.io/vue-player/">Открыть демо →</a>
-    </td>
-  </tr>
-</table>
+| Проект | Описание | Стек |
+| --- | --- | --- |
+| [vue-kanban](https://github.com/danilromas/vue-kanban) · [демо](https://danilromas.github.io/vue-kanban/) | Канбан-доска: drag & drop без библиотек, дедлайны, фильтры, сохранение в localStorage | Vue 3, Pinia |
+| [vue-weather](https://github.com/danilromas/vue-weather) · [демо](https://danilromas.github.io/vue-weather/) | Прогноз погоды: поиск городов с автодополнением, график на сутки на SVG, геолокация | Vue 3, Open-Meteo API |
+| [vue-player](https://github.com/danilromas/vue-player) · [демо](https://danilromas.github.io/vue-player/) | Плеер для локальных файлов: визуализатор звука, плейлист, горячие клавиши | Vue 3, Web Audio API |
 
-<p align="right"><a href="https://github.com/danilromas?tab=repositories">все репозитории →</a></p>
+## Опыт и образование
 
-### 🏆 Судовой журнал
+- **Web Castle** — frontend-разработчик, 2024–2026
+- **КИПУ им. Февзи Якубова** — прикладная информатика, бакалавриат (2021–2025), магистратура (2025–2027)
 
-| Год | Где | Результат |
-| :-: | --- | :-: |
-| 2025 | Алгоритмическое программирование среди вузов Крыма | 🥇 1 место |
-| 2025 | Алгоритмы, idman academy | 🥈 2 место |
-| 2025 | Геймтон DatsTeam | 16 место |
-| 2024 | ICPC, Санкт-Петербург | 150 из 400 команд |
-| 2023 | Олимпиада 1С, Крым | 🥇 1 место |
-| — | Хакатон среди всех вузов Крыма | 🥈 2 место |
-| — | Алгоритмы, Грозный (все регионы России) | 7 место |
-| — | Космокод, Краснодар | 52 из 150 |
+## Достижения
 
-### 🌊 Течение коммитов
+- 1 место — олимпиада 1С, Крым (2023)
+- 1 место — алгоритмическое программирование среди вузов Крыма (2025)
+- 2 место — алгоритмы, idman academy (2025)
+- 2 место — хакатон среди вузов Крыма
+- 7 место — алгоритмы, Грозный (все регионы России)
+- ICPC 2024, Санкт-Петербург — 150 из 400 команд
+- 16 место — геймтон DatsTeam (2025)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danilromas/danilromas/output/snake-sea.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danilromas/danilromas/output/snake-sea-light.svg" />
-  <img alt="змейка из коммитов" src="https://raw.githubusercontent.com/danilromas/danilromas/output/snake-sea.svg" width="100%" />
-</picture>
+## Контакты
 
-<p align="center">
-  <img src="./assets/wave-footer.svg" alt="" width="100%" />
-</p>
-
-<p align="center"><sub>44.95° N, 34.10° E · пишите в Telegram — отвечаю быстро</sub></p>
+Telegram — [@np_ok](https://t.me/np_ok) · Почта — [danil.romashkan@yandex.ru](mailto:danil.romashkan@yandex.ru)
